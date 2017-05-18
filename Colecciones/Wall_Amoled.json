@@ -593,9 +593,10 @@
       "author_url_website": "",
       "author_description": ""
     },
-         
+       
+       
     {
-      "author_name": "Unknown",
+      "author_name": "Unknown", 
       "wallpaper_name": "Amoled 3",
       "wallpaper_id": "inswall-amo-00003",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled17.png",
