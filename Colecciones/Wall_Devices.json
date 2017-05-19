@@ -5,7 +5,7 @@
    {
       "author_name": "One Plus",
       "wallpaper_name": "One Plus",
-      "wallpaper_id": "inswall-dev-00046",
+      "wallpaper_id": "inswall-dev-00042",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlusPreview.jpg",
       "wallpaper_resolution": "1080 x 192'",
@@ -26,7 +26,7 @@
    {
       "author_name": "Xiaomi",
       "wallpaper_name": "Redmi Note 4",
-      "wallpaper_id": "inswall-dev-00045",
+      "wallpaper_id": "inswall-dev-00041",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/RedmiNote4.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/RedmiNote4Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -46,7 +46,7 @@
    {
       "author_name": "LG",
       "wallpaper_name": "LG G6",
-      "wallpaper_id": "inswall-dev-00044",
+      "wallpaper_id": "inswall-dev-00040",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/LGG6.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/LGG6Preview.jpg",
       "wallpaper_resolution": "1440 x 1880",
@@ -67,7 +67,7 @@
    {
       "author_name": "LG",
       "wallpaper_name": "LG V20",
-      "wallpaper_id": "inswall-dev-00043",
+      "wallpaper_id": "inswall-dev-00039",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/LGV20.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/LGV20Preview.jpg",
       "wallpaper_resolution": "1441 x 2560",
@@ -84,87 +84,6 @@
       "author_description": ""
     },
     
-
-   {
-      "author_name": "Elephone",
-      "wallpaper_name": "Elephone G7",
-      "wallpaper_id": "inswall-dev-00042",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Elephone%20G7.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Elephone%20G7%20Preview.jpg",
-      "wallpaper_resolution": "1440 x 1280",
-      "wallpaper_size": "1.30 MB",
-      "upload_date": "15 may. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-      
-   {
-      "author_name": "InFocus",
-      "wallpaper_name": "InFocus M812",
-      "wallpaper_id": "inswall-dev-00041",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/InFocus%20M812.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/InFocus%20M812%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "852 KB",
-      "upload_date": "15 may. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-
-   {
-      "author_name": "Zenfone",
-      "wallpaper_name": "Zenfone 6",
-      "wallpaper_id": "inswall-dev-00040",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Zenfone%206.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Zenfone%206%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "678 KB",
-      "upload_date": "15 may. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-
-   {
-      "author_name": "Zenfone",
-      "wallpaper_name": "Zenfone 3",
-      "wallpaper_id": "inswall-dev-00039",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Zenfone%203.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Zenfone%203%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "358 KB",
-      "upload_date": "15 may. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-
    {
       "author_name": "Meizu",
       "wallpaper_name": "Meizu Pro 6",
@@ -444,11 +363,92 @@
       "author_url_website": "",
       "author_description": ""
     },
+       
+       
+   {
+      "author_name": "Elephone",
+      "wallpaper_name": "Elephone G7",
+      "wallpaper_id": "inswall-dev-00024",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Elephone%20G7.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Elephone%20G7%20Preview.jpg",
+      "wallpaper_resolution": "1440 x 1280",
+      "wallpaper_size": "1.30 MB",
+      "upload_date": "15 may. 2017",
+      "wallpaper_is_recent": "false",
 
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+      
+   {
+      "author_name": "InFocus",
+      "wallpaper_name": "InFocus M812",
+      "wallpaper_id": "inswall-dev-00023",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/InFocus%20M812.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/InFocus%20M812%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "852 KB",
+      "upload_date": "15 may. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+   {
+      "author_name": "Zenfone",
+      "wallpaper_name": "Zenfone 6",
+      "wallpaper_id": "inswall-dev-00022",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Zenfone%206.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Zenfone%206%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "678 KB",
+      "upload_date": "15 may. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+   {
+      "author_name": "Zenfone",
+      "wallpaper_name": "Zenfone 3",
+      "wallpaper_id": "inswall-dev-00021",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Zenfone%203.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Zenfone%203%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "358 KB",
+      "upload_date": "15 may. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+        
     {
       "author_name": "Nextbit",
       "wallpaper_name": "Nextbit Robin",
-      "wallpaper_id": "inswall-dev-00024",
+      "wallpaper_id": "inswall-dev-00020",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Nextbit%20Robin.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Nextbit%20Robin%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -468,7 +468,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus X",
-      "wallpaper_id": "inswall-dev-00023",
+      "wallpaper_id": "inswall-dev-00019",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%20X.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%20X%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -488,7 +488,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 3T",
-      "wallpaper_id": "inswall-dev-00022",
+      "wallpaper_id": "inswall-dev-00018",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%203T.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%203T%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -508,7 +508,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 3",
-      "wallpaper_id": "inswall-dev-00021",
+      "wallpaper_id": "inswall-dev-00017",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%203.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%203%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -528,7 +528,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 2",
-      "wallpaper_id": "inswall-dev-00020",
+      "wallpaper_id": "inswall-dev-00016",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%202.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%202%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -548,7 +548,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 1",
-      "wallpaper_id": "inswall-dev-00019",
+      "wallpaper_id": "inswall-dev-00015",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%201.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%201%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
