@@ -2,15 +2,17 @@
    "wallpapers": [ 
        
        
+
        
-    {
+       
+     {
       "author_name": "Unknown",
-      "wallpaper_name": "Girl 52",
-      "wallpaper_id": "inswall-gir-00052",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl52.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl52Preview.jpg",
-      "wallpaper_resolution": "1440 x 2400",
-      "wallpaper_size": "783 KB",
+      "wallpaper_name": "Girl 54",
+      "wallpaper_id": "inswall-gir-00050",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl51.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl51Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "769 KB",
       "upload_date": "24 jun. 2017",
       "wallpaper_is_recent": "false",
 
@@ -21,11 +23,12 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""            
-    },
+    },  
+       
        
      {
       "author_name": "Unknown",
-      "wallpaper_name": "Girl 51",
+      "wallpaper_name": "Girl 53",
       "wallpaper_id": "inswall-gir-00051",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl49.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl49Preview.jpg",
@@ -43,14 +46,15 @@
       "author_description": ""            
     },     
        
+
      {
       "author_name": "Unknown",
-      "wallpaper_name": "Girl 50",
-      "wallpaper_id": "inswall-gir-00050",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl51.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl51Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "769 KB",
+      "wallpaper_name": "Girl 52",
+      "wallpaper_id": "inswall-gir-00052",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl52.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl52Preview.jpg",
+      "wallpaper_resolution": "1440 x 2400",
+      "wallpaper_size": "783 KB",
       "upload_date": "24 jun. 2017",
       "wallpaper_is_recent": "false",
 
@@ -61,12 +65,12 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""            
-    },        
-
+    },      
        
+  
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Girl 49",
+      "wallpaper_name": "Girl 51",
       "wallpaper_id": "inswall-gir-00049",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl50.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl50Preview.jpg",
@@ -83,6 +87,15 @@
       "author_url_website": "",
       "author_description": ""            
     },        
+   
+       
+       
+       
+       
+       
+       
+       
+       
        
        
     {
