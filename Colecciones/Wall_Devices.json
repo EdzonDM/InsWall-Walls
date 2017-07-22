@@ -1,35 +1,14 @@
 {
    "wallpapers": [
        
-       
-   {
-      "author_name": "Samsung",
-      "wallpaper_name": "Galaxy S8",
-      "wallpaper_id": "inswall-dev-00044",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/GalaxyS8%20Original.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/GalaxyS8Preview2.jpg",
-      "wallpaper_resolution": "2960 x 2960",
-      "wallpaper_size": "3.70 MB",
-      "upload_date": "24 jun. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },             
-       
-   {
-      "author_name": "Samsung",
-      "wallpaper_name": "Galaxy S8",
+{
+      "author_name": "Google",
+      "wallpaper_name": "Pixel XL",
       "wallpaper_id": "inswall-dev-00043",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/GalaxyS8.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/GalaxyS8Preview.jpg",
-      "wallpaper_resolution": "2960 x 2960",
-      "wallpaper_size": "1.47 MB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/PixelXL.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/PixelXLPreview.jpg",
+      "wallpaper_resolution": "2154 x 2560",
+      "wallpaper_size": "564 KB",
       "upload_date": "24 jun. 2017",
       "wallpaper_is_recent": "false",
 
@@ -40,30 +19,8 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-    },         
-       
-       
-   
-   {
-      "author_name": "One Plus",
-      "wallpaper_name": "One Plus",
-      "wallpaper_id": "inswall-dev-00042",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlusPreview.jpg",
-      "wallpaper_resolution": "1080 x 192'",
-      "wallpaper_size": "1.30 MB",
-      "upload_date": "24 jun. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-              
+    },           
+          
        
    {
       "author_name": "Xiaomi",
@@ -506,11 +463,32 @@
       "author_url_website": "",
       "author_description": ""
     },
+       
+   {
+      "author_name": "One Plus",
+      "wallpaper_name": "OnePlus 5",
+      "wallpaper_id": "inswall-dev-00022",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus5.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus5Preview.jpg",
+      "wallpaper_resolution": "1440 x 2560",
+      "wallpaper_size": "386 KB",
+      "upload_date": "24 jun. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },       
+       
 
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus X",
-      "wallpaper_id": "inswall-dev-00019",
+      "wallpaper_id": "inswall-dev-00021",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%20X.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%20X%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -530,7 +508,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 3T",
-      "wallpaper_id": "inswall-dev-00018",
+      "wallpaper_id": "inswall-dev-00020",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%203T.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%203T%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -550,7 +528,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 3",
-      "wallpaper_id": "inswall-dev-00017",
+      "wallpaper_id": "inswall-dev-00019",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%203.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%203%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -570,7 +548,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 2",
-      "wallpaper_id": "inswall-dev-00016",
+      "wallpaper_id": "inswall-dev-00018",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%202.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%202%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -590,7 +568,7 @@
     {
       "author_name": "OnePlus",
       "wallpaper_name": "OnePlus 1",
-      "wallpaper_id": "inswall-dev-00015",
+      "wallpaper_id": "inswall-dev-00017",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%201.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%201%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
@@ -606,6 +584,47 @@
       "author_url_website": "",
       "author_description": ""
     },
+       
+    {
+      "author_name": "Samsung",
+      "wallpaper_name": "Galaxy S8",
+      "wallpaper_id": "inswall-dev-00016",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/GalaxyS8%20Original.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/GalaxyS8Preview2.jpg",
+      "wallpaper_resolution": "2960 x 2960",
+      "wallpaper_size": "3.70 MB",
+      "upload_date": "24 jun. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },             
+       
+   {
+      "author_name": "Samsung",
+      "wallpaper_name": "Galaxy S8",
+      "wallpaper_id": "inswall-dev-00015",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/GalaxyS8.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/GalaxyS8Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "926 KB",
+      "upload_date": "24 jun. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },       
+       
 
     {
       "author_name": "Samsung",
