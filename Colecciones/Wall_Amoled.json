@@ -11,7 +11,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "498 KB",
       "upload_date": "18 aug. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -31,7 +31,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "117 KB",
       "upload_date": "18 aug. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -52,7 +52,7 @@
       "wallpaper_resolution": "1215 x 2160",
       "wallpaper_size": "61 KB",
       "upload_date": "18 aug. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -72,7 +72,7 @@
       "wallpaper_resolution": "1215 x 2160",
       "wallpaper_size": "55 KB",
       "upload_date": "18 aug. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -82,17 +82,7 @@
       "author_url_website": "",
       "author_description": ""
      },  
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+
       {
       "author_name": "Unknown",
       "wallpaper_name": "Amoled 40",
