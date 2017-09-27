@@ -12,7 +12,7 @@
       "wallpaper_resolution": "1440 x 2560",
       "wallpaper_size": "1.45 MB",
       "upload_date": "17 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -32,7 +32,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "285 KB",
       "upload_date": "17 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -52,7 +52,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "198 KB",
       "upload_date": "17 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -72,7 +72,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "90 KB",
       "upload_date": "17 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -93,7 +93,7 @@
       "wallpaper_resolution": "1440 x 2560",
       "wallpaper_size": "179 KB",
       "upload_date": "17 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -113,7 +113,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "436 KB",
       "upload_date": "17 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -124,21 +124,7 @@
       "author_description": ""
      },   
            
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       {
+      {
       "author_name": "Unknown",
       "wallpaper_name": "Amoled 46",
       "wallpaper_id": "inswall-amo-00046",
