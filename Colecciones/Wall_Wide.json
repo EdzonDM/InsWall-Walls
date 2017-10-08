@@ -1,7 +1,54 @@
 {
    "wallpapers": [
        
-        {
+       
+         {
+      "author_name": "Unknown",
+      "wallpaper_name": "Blue Planets",
+      "wallpaper_id": "inswall-wid-00084",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Blueplanets.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/BlueplanetsPreview.jpg",
+      "wallpaper_resolution": "3840 x 2552",
+      "wallpaper_size": "837 KB",
+      "upload_date": "08 oct. 2017",
+      "wallpaper_is_recent": "true",
+          
+      "wallpaper_tags": "tagColor|othersTags",
+      "wallpaper_category": "Wide",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+       
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Curves",
+      "wallpaper_id": "inswall-wid-00083",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Curves.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/CurvesPreview.jpg",
+      "wallpaper_resolution": "2880 x 2560",
+      "wallpaper_size": "0.99 MB",
+      "upload_date": "08 oct. 2017",
+      "wallpaper_is_recent": "true",
+          
+      "wallpaper_tags": "tagColor|othersTags",
+      "wallpaper_category": "Wide",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },     
+       
+       
+       
+       
+       
+       
+       
+    {
       "author_name": "Unknown",
       "wallpaper_name": "Colorful Mosaic",
       "wallpaper_id": "inswall-wid-00082",
@@ -10,7 +57,7 @@
       "wallpaper_resolution": "3200 x 2000",
       "wallpaper_size": "810 KB",
       "upload_date": "27 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -30,7 +77,7 @@
       "wallpaper_resolution": "3200 x 2000",
       "wallpaper_size": "688 KB",
       "upload_date": "27 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -50,7 +97,7 @@
       "wallpaper_resolution": "3228 x 1715",
       "wallpaper_size": "545 KB",
       "upload_date": "27 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -70,7 +117,7 @@
       "wallpaper_resolution": "3840 x 2160",
       "wallpaper_size": "615 KB",
       "upload_date": "27 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -90,7 +137,7 @@
       "wallpaper_resolution": "2560 x 1706",
       "wallpaper_size": "466 KB",
       "upload_date": "27 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -110,7 +157,7 @@
       "wallpaper_resolution": "3840 x 2160",
       "wallpaper_size": "1.46 MB",
       "upload_date": "27 sep. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -121,23 +168,7 @@
       "author_description": ""
     },       
        
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-   
-       
+
       {
       "author_name": "Aaron Olive",
       "wallpaper_name": "Firewatch",
