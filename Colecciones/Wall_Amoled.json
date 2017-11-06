@@ -1,6 +1,51 @@
 {
    "wallpapers": [
        
+       
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Amoled 56",
+      "wallpaper_id": "inswall-amo-00056",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled56.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled56Preview.jpg",
+      "wallpaper_resolution": "1080 x 19200",
+      "wallpaper_size": "324 KB",
+      "upload_date": "06 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Amoled",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+     },
+       
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Amoled 55",
+      "wallpaper_id": "inswall-amo-00055",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled55.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled55Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "328 KB",
+      "upload_date": "06 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Amoled",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+     },       
+       
+       
+       
+       
+       
       
    {
       "author_name": "Unknown",
@@ -11,7 +56,7 @@
       "wallpaper_resolution": "1080 x 1800",
       "wallpaper_size": "265 KB",
       "upload_date": "08 oct. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -31,7 +76,7 @@
       "wallpaper_resolution": "1080 x 1800",
       "wallpaper_size": "187 KB",
       "upload_date": "08 oct. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Amoled",
@@ -42,17 +87,7 @@
       "author_description": ""
      },       
        
-       
-       
-       
-       
-       
-       
-       
-       
- 
-       
-   {
+    {
       "author_name": "Unknown",
       "wallpaper_name": "Amoled 52",
       "wallpaper_id": "inswall-amo-00052",
