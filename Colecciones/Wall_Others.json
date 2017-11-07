@@ -2,6 +2,106 @@
    "wallpapers": [ 
        
        
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Building 2",
+      "wallpaper_id": "inswall-oth-00102",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Building2.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Building2Preview.jpg",
+      "wallpaper_resolution": "1440 x 2560",
+      "wallpaper_size": "831 KB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Others",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },       
+
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Building 1",
+      "wallpaper_id": "inswall-oth-00101",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Building1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Building1Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "450 KB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Others",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+       
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Drop of Life",
+      "wallpaper_id": "inswall-oth-00100",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Dropoflife.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/DropoflifePreview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "1.94 MB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Others",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },       
+
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Lightning Fog",
+      "wallpaper_id": "inswall-oth-00099",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lightningfog.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/LightningfogPreview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "1.76 MB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Others",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },   
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
        
       {
       "author_name": "Unknown",
