@@ -2,6 +2,100 @@
    "wallpapers": [
        
        
+       
+    {
+      "author_name": "Apple",
+      "wallpaper_name": "iPhone X",
+      "wallpaper_id": "inswall-dev-00054",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhoneX.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhoneXPreview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "2.11 MB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+       
+     {
+      "author_name": "Razer",
+      "wallpaper_name": "Razer Phone",
+      "wallpaper_id": "inswall-dev-00053",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/RazerPhone.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/RazerPhonePreview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "2.19 MB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+
+    {
+      "author_name": "Google",
+      "wallpaper_name": "Pixel 2 XL",
+      "wallpaper_id": "inswall-dev-00052",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pixel2XL.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pixel2XLPreview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "2.57 MB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+       
+     {
+      "author_name": "HTC",
+      "wallpaper_name": "HTC U11+",
+      "wallpaper_id": "inswall-dev-00051",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/HTCU11+.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/HTCU11+Preview.jpg",
+      "wallpaper_resolution": "2880 x 2880",
+      "wallpaper_size": "1.82 MB",
+      "upload_date": "07 nov. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Devices",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
     {
       "author_name": "Xiaomi",
       "wallpaper_name": "Mi 5X",
@@ -836,47 +930,6 @@
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Honor%207%20Preview.jpg",
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "436 KB",
-      "upload_date": "20 jul. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-
-    {
-      "author_name": "Huawei",
-      "wallpaper_name": "Huawei P9",
-      "wallpaper_id": "inswall-dev-00008",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P9.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Huawei%20P9%20Preview.jpg",
-      "wallpaper_resolution": "2160 x 1920",
-      "wallpaper_size": "329 KB",
-      "upload_date": "20 jul. 2017",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Devices",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": ""
-    },
-      
-    
-    {
-      "author_name": "Huawei",
-      "wallpaper_name": "Huawei P8",
-      "wallpaper_id": "inswall-dev-00007",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P8.jpg",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Huawei%20P8%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1.13 MB",
       "upload_date": "20 jul. 2017",
       "wallpaper_is_recent": "false",
 
