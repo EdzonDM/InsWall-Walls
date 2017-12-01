@@ -11,7 +11,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "869 KB",
       "upload_date": "06 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Games",
@@ -31,7 +31,7 @@
       "wallpaper_resolution": "1080 x 1800",
       "wallpaper_size": "681 KB",
       "upload_date": "06 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Games",
@@ -41,20 +41,7 @@
       "author_url_website": "",
       "author_description": ""
     },      
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+  
     {
       "author_name": "Unknown",
       "wallpaper_name": "Minecraft",

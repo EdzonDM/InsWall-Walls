@@ -12,7 +12,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "2.11 MB",
       "upload_date": "07 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Devices",
@@ -32,7 +32,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "2.19 MB",
       "upload_date": "07 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Devices",
@@ -52,7 +52,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "2.57 MB",
       "upload_date": "07 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Devices",
@@ -72,7 +72,7 @@
       "wallpaper_resolution": "2880 x 2880",
       "wallpaper_size": "1.82 MB",
       "upload_date": "07 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Devices",
@@ -82,20 +82,7 @@
       "author_url_website": "",
       "author_description": ""
     }, 
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+
     {
       "author_name": "Xiaomi",
       "wallpaper_name": "Mi 5X",
