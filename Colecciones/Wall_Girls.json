@@ -4,6 +4,55 @@
        
     {
       "author_name": "Unknown",
+      "wallpaper_name": "Girl 62",
+      "wallpaper_id": "inswall-gir-00062",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl62.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl62Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "932 KB",
+      "upload_date": "13 dec. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Girls",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""            
+    },     
+             
+       
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Girl 61",
+      "wallpaper_id": "inswall-gir-00061",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl61.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl61Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "1 MB",
+      "upload_date": "13 dec. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Girls",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""            
+    },        
+       
+       
+       
+       
+       
+       
+       
+       
+
+      {
+      "author_name": "Unknown",
       "wallpaper_name": "Girl 60",
       "wallpaper_id": "inswall-gir-00060",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl60.png",
@@ -11,7 +60,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "910 KB",
       "upload_date": "06 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Girls",
@@ -32,7 +81,7 @@
       "wallpaper_resolution": "1440 x 2560",
       "wallpaper_size": "1.26 MB",
       "upload_date": "06 nov. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Girls",
@@ -41,15 +90,7 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""            
-    },        
-       
-       
-       
-       
-       
-       
-
-       
+    },     
        
     {
       "author_name": "Unknown",
