@@ -11,7 +11,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.49 MB",
       "upload_date": "01 dec. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Anime",
@@ -31,7 +31,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.71 MB",
       "upload_date": "01 dec. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Anime",
@@ -42,17 +42,7 @@
       "author_description": ""
      }, 
        
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       {
+   {
       "author_name": "Kuronick",
       "wallpaper_name": "Anime 62",
       "wallpaper_id": "inswall-ani-00062",
